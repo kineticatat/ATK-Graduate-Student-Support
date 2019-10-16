@@ -1,5 +1,9 @@
 # ATK-Graduate-Student-Support
 Support documents for graduate students interested in research directions.
+To Add: 
+Ethics process
+Timeline/ dates/ deadline
+How to read a paper critically + fast
 
 <a href="https://grad.illinoisstate.edu/students/thesis-dissertation/plan/" target="_blank">Illinois State University Thesis Support</a> 
 
