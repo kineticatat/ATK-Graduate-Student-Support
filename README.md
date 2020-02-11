@@ -12,5 +12,7 @@ How to read a paper critically + fast
 <a href="https://drive.google.com/open?id=1L_85_bCl6CnfgSRrMKzxD6c_xqu7WYaAXibvWDg7qS8" target="_blank">HCI Graduate Programs</a> 
  
 <a href="https://drive.google.com/open?id=1hvC3x-ZWd3Qh9isvrYXTJvvs32IqLDahGvGTZ_O766A" target="_blank">Art + Digital Conferences</a> 
+
+<a href="https://github.com/speculativeedu/The-SpeculativeEdu-Online-Repository/tree/master/Methods_and_tools/Toolkits" target="blank">Speculative Design EDU</a>
  
  
